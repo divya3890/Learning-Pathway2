@@ -1,0 +1,12 @@
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\bin\Debug\net6.0\MeterReading.Data.deps.json
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\bin\Debug\net6.0\MeterReading.Data.dll
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\bin\Debug\net6.0\ref\MeterReading.Data.dll
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\bin\Debug\net6.0\MeterReading.Data.pdb
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.csproj.AssemblyReference.cache
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.AssemblyInfoInputs.cache
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.AssemblyInfo.cs
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.csproj.CoreCompileInputs.cache
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.dll
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\ref\MeterReading.Data.dll
+C:\Users\DivyaPrasannan\source\repos\EnsekEnergy\EnsekEnergy\MeterReading.Data\obj\Debug\net6.0\MeterReading.Data.pdb

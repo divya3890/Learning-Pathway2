@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\configuration\\registerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\configuration\\registerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\ensek.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\ensek.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\ensek.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\ensek.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B85030-889B-469B-956D-91B8F1201C73}|Ensek.UnitTests\\Ensek.UnitTests.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.unittests\\validateuploadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B85030-889B-469B-956D-91B8F1201C73}|Ensek.UnitTests\\Ensek.UnitTests.csproj|solutionrelative:ensek.unittests\\validateuploadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.service\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|solutionrelative:ensek.service\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.service\\uploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|solutionrelative:ensek.service\\uploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.service\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|solutionrelative:ensek.service\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.service\\iuploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|solutionrelative:ensek.service\\iuploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.domainmodels\\model\\response\\validationresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|solutionrelative:ensek.domainmodels\\model\\response\\validationresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.domainmodels\\model\\request\\uploadfilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|solutionrelative:ensek.domainmodels\\model\\request\\uploadfilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.domainmodels\\model\\dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F171434-D29E-4813-8E3F-7751EF3B7DBF}|Ensek.DomainModels\\Ensek.DomainModels.csproj|solutionrelative:ensek.domainmodels\\model\\dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\repository\\meterreadingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\repository\\meterreadingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\repository\\imeterreadingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\repository\\imeterreadingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\migrations\\ensekdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\migrations\\ensekdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\migrations\\20240604215611_add_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\migrations\\20240604215611_add_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\di\\datacontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\di\\datacontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.data\\ensekdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5D5BEF-5220-43B4-9BBD-8407C1527728}|Ensek.Data\\Ensek.Data.csproj|solutionrelative:ensek.data\\ensekdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.service\\di\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F055804E-FECB-40D0-9293-A10D152326BC}|Ensek.Service\\Ensek.Service.csproj|solutionrelative:ensek.service\\di\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B85030-889B-469B-956D-91B8F1201C73}|Ensek.UnitTests\\Ensek.UnitTests.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.unittests\\ensek.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47B85030-889B-469B-956D-91B8F1201C73}|Ensek.UnitTests\\Ensek.UnitTests.csproj|solutionrelative:ensek.unittests\\ensek.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyaPrasannan\\AppData\\Local\\Temp\\MetadataAsSource\\330dd895e235497fb32bb5198989970a\\0b949fa971c440bebd3f4da96906eade\\IFormFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|c:\\users\\mail2\\downloads\\divyaprasannan-main\\divyaprasannan-main\\ensekenergy\\ensek.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32F53430-B770-4628-A3DA-DBA2CCC218F2}|Ensek.API\\Ensek.API.csproj|solutionrelative:ensek.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 220,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ensek.API",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Ensek.API.csproj",
+              "RelativeDocumentMoniker": "Ensek.API\\Ensek.API.csproj",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Ensek.API.csproj",
+              "RelativeToolTip": "Ensek.API\\Ensek.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T15:35:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Repository\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "Ensek.Data\\Repository\\AccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Repository\\IAccountRepo.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\IAccountRepo.cs",
+              "RelativeToolTip": "Ensek.Data\\Repository\\IAccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFormFile.cs",
+              "DocumentMoniker": "C:\\Users\\DivyaPrasannan\\AppData\\Local\\Temp\\MetadataAsSource\\330dd895e235497fb32bb5198989970a\\0b949fa971c440bebd3f4da96906eade\\IFormFile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DivyaPrasannan\\AppData\\Local\\Temp\\MetadataAsSource\\330dd895e235497fb32bb5198989970a\\0b949fa971c440bebd3f4da96906eade\\IFormFile.cs",
+              "ToolTip": "Microsoft.AspNetCore.Http.IFormFile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "Microsoft.AspNetCore.Http.IFormFile",
+              "WhenOpened": "2024-06-05T09:34:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ensek.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Program.cs",
+              "RelativeToolTip": "Ensek.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Configuration\\RegisterServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Ensek.API\\Configuration\\RegisterServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Configuration\\RegisterServiceExtensions.cs",
+              "RelativeToolTip": "Ensek.API\\Configuration\\RegisterServiceExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ensek.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\appsettings.json",
+              "RelativeToolTip": "Ensek.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T14:03:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ensek.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.UnitTests\\Ensek.UnitTests.csproj",
+              "RelativeDocumentMoniker": "Ensek.UnitTests\\Ensek.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.UnitTests\\Ensek.UnitTests.csproj",
+              "RelativeToolTip": "Ensek.UnitTests\\Ensek.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T14:03:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidateUploadTests.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.UnitTests\\ValidateUploadTests.cs",
+              "RelativeDocumentMoniker": "Ensek.UnitTests\\ValidateUploadTests.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.UnitTests\\ValidateUploadTests.cs",
+              "RelativeToolTip": "Ensek.UnitTests\\ValidateUploadTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ensek.API.csproj",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Ensek.API.csproj",
+              "RelativeDocumentMoniker": "Ensek.API\\Ensek.API.csproj",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Ensek.API.csproj",
+              "RelativeToolTip": "Ensek.API\\Ensek.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T15:12:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnsekDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Migrations\\EnsekDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Migrations\\EnsekDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Migrations\\EnsekDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Ensek.Data\\Migrations\\EnsekDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\DI\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Ensek.Service\\DI\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\DI\\ServiceContainer.cs",
+              "RelativeToolTip": "Ensek.Service\\DI\\ServiceContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContainer.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\DI\\DataContainer.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\DI\\DataContainer.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\DI\\DataContainer.cs",
+              "RelativeToolTip": "Ensek.Data\\DI\\DataContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\Validate.cs",
+              "RelativeDocumentMoniker": "Ensek.Service\\Validate.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\Validate.cs",
+              "RelativeToolTip": "Ensek.Service\\Validate.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IValidate.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\IValidate.cs",
+              "RelativeDocumentMoniker": "Ensek.Service\\IValidate.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\IValidate.cs",
+              "RelativeToolTip": "Ensek.Service\\IValidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeterReadingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\DTOs\\MeterReadingDTO.cs",
+              "RelativeDocumentMoniker": "Ensek.DomainModels\\Model\\DTOs\\MeterReadingDTO.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\DTOs\\MeterReadingDTO.cs",
+              "RelativeToolTip": "Ensek.DomainModels\\Model\\DTOs\\MeterReadingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MeterReading.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Models\\MeterReading.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Models\\MeterReading.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Models\\MeterReading.cs",
+              "RelativeToolTip": "Ensek.Data\\Models\\MeterReading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Models\\Account.cs",
+              "RelativeToolTip": "Ensek.Data\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadFileRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\Request\\UploadFileRequest.cs",
+              "RelativeDocumentMoniker": "Ensek.DomainModels\\Model\\Request\\UploadFileRequest.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\Request\\UploadFileRequest.cs",
+              "RelativeToolTip": "Ensek.DomainModels\\Model\\Request\\UploadFileRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\Response\\ValidationResultModel.cs",
+              "RelativeDocumentMoniker": "Ensek.DomainModels\\Model\\Response\\ValidationResultModel.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.DomainModels\\Model\\Response\\ValidationResultModel.cs",
+              "RelativeToolTip": "Ensek.DomainModels\\Model\\Response\\ValidationResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240604215611_Add_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Migrations\\20240604215611_Add_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Migrations\\20240604215611_Add_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Migrations\\20240604215611_Add_InitialCreate.cs",
+              "RelativeToolTip": "Ensek.Data\\Migrations\\20240604215611_Add_InitialCreate.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE0AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUploadFileService.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\IUploadFileService.cs",
+              "RelativeDocumentMoniker": "Ensek.Service\\IUploadFileService.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\IUploadFileService.cs",
+              "RelativeToolTip": "Ensek.Service\\IUploadFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadFileService.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\UploadFileService.cs",
+              "RelativeDocumentMoniker": "Ensek.Service\\UploadFileService.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Service\\UploadFileService.cs",
+              "RelativeToolTip": "Ensek.Service\\UploadFileService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Ensek.API\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Ensek.API\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MeterReadingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\MeterReadingRepo.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Repository\\MeterReadingRepo.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\MeterReadingRepo.cs",
+              "RelativeToolTip": "Ensek.Data\\Repository\\MeterReadingRepo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMeterReadingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\IMeterReadingRepo.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\Repository\\IMeterReadingRepo.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\Repository\\IMeterReadingRepo.cs",
+              "RelativeToolTip": "Ensek.Data\\Repository\\IMeterReadingRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Ensek.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\appsettings.Development.json",
+              "RelativeToolTip": "Ensek.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T14:03:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ensek.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ensek.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T14:03:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnsekDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\EnsekDbContext.cs",
+              "RelativeDocumentMoniker": "Ensek.Data\\EnsekDbContext.cs",
+              "ToolTip": "C:\\Users\\mail2\\Downloads\\DivyaPrasannan-main\\DivyaPrasannan-main\\EnsekEnergy\\Ensek.Data\\EnsekDbContext.cs",
+              "RelativeToolTip": "Ensek.Data\\EnsekDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:03:02.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

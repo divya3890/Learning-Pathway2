@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32f53430-b770-4628-a3da-dba2ccc218f2": {
+      "ProjectGuid": "32f53430-b770-4628-a3da-dba2ccc218f2",
+      "DisplayName": "Ensek.API",
+      "ColorIndex": 0
+    },
+    "2f5d5bef-5220-43b4-9bbd-8407c1527728": {
+      "ProjectGuid": "2f5d5bef-5220-43b4-9bbd-8407c1527728",
+      "DisplayName": "Ensek.Data",
+      "ColorIndex": 1
+    },
+    "f055804e-fecb-40d0-9293-a10d152326bc": {
+      "ProjectGuid": "f055804e-fecb-40d0-9293-a10d152326bc",
+      "DisplayName": "Ensek.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7f171434-d29e-4813-8e3f-7751ef3b7dbf": {
+      "ProjectGuid": "7f171434-d29e-4813-8e3f-7751ef3b7dbf",
+      "DisplayName": "Ensek.DomainModels",
+      "ColorIndex": 3
+    },
+    "47b85030-889b-469b-956d-91b8f1201c73": {
+      "ProjectGuid": "47b85030-889b-469b-956d-91b8f1201c73",
+      "DisplayName": "Ensek.UnitTests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
